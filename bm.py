@@ -1,3 +1,4 @@
+# Current difficulty level for bitcoin mining is 20
 from hashlib import sha256
 import time
 MAX_NONCE = 100000000000
