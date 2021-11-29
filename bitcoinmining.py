@@ -20,8 +20,8 @@ def mine(block_number, transactions, previous_hash, prefix_zeros):
 if __name__ == "__main__":
 
     transactions="""
-    cassian->nesta->20,
-    yennefer->geralt->40
+    cassian -> nesta -> 20,
+    yennefer -> geralt -> 40
     """
 
     difficulty = 4
