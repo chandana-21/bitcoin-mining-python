@@ -24,7 +24,7 @@ if __name__ == "__main__":
     yennefer->geralt->40
     """
 
-    difficulty = 6
+    difficulty = 4
     start = time.time()
     print("start mining")
     new_hash = mine(5,transactions,'0000000xa036944e29568d0cff17edbe038f81208fecf9a66be9a2b8321c6ec7', difficulty)
